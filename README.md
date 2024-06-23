@@ -19,7 +19,7 @@ As a frontend developer, I possess a diverse skill set that enables me to create
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,react,tailwind,ts,firebase,mongodb,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,react,swift,tailwind,ts,firebase,mongodb,git,github" />
   </a>
 </p>
 
