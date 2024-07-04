@@ -11,7 +11,7 @@ As a frontend developer, I possess a diverse skill set that enables me to create
  I am dedicated to staying up-to-date with the latest trends and best practices in the field, continually expanding my skill set to deliver cutting-edge solutions. I am passionate about creating user-friendly experiences that combine functionality with aesthetic appeal. My adaptability and eagerness to learn make me a valuable asset in any frontend development team.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Visit my Portfolio](https://www.krishchhabra.vercel.app/)
+* 🖥️  See my portfolio at [Visit my Portfolio]([https://bento.me/krishchhabra]))
 * ✉️  You can contact me at [krishkumarchhabra8249@gmail.com](mailto:krishkumarchhabra8249@gmail.com)
 * 🧠   I'm  passionate about contributing to open source projects.
 * 🤝  I'm open to collaborating on I'm also open to collaborating on projects and ideas, so feel free to reach out to me if you have something interesting in mind.
